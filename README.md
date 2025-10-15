@@ -1,12 +1,12 @@
 # Titanic-Analysis
-##**Exploratory Data Analysis on the Titanic dataset using Python (Google Colab)**
+## **Exploratory Data Analysis on the Titanic dataset using Python (Google Colab)**
 Titanic Dataset Analysis — EDA using Python (Google Colab)
 Overview
 
 This project explores the famous Titanic: Machine Learning from Disaster dataset.
 The analysis identifies patterns between passenger features (age, gender, class, fare, etc.) and survival outcomes using Python-based exploratory data analysis (EDA).
 
-##**Dataset**
+## **Dataset**
 
 Source: Kaggle Titanic Dataset
 
@@ -18,7 +18,7 @@ pclass: Passenger Class (1st, 2nd, 3rd)
 
 sex, age, sibsp, parch, fare, embarked, etc.
 
-##**Tools & Libraries**
+## **Tools & Libraries**
 
 Python
 
@@ -28,7 +28,7 @@ NumPy
 
 Google Colab
 
-##**Analysis Tasks**
+## **Analysis Tasks**
 
 Display first and last 6 passenger records
 
@@ -40,7 +40,7 @@ Find youngest, oldest, and average age
 
 Calculate average fare and survival patterns
 
-##**Key Insights**
+## **Key Insights**
 
 Higher survival rates were observed among females and 1st-class passengers
 
@@ -48,7 +48,7 @@ Age and fare showed moderate correlation with survival probability
 
 Cabin data had significant missing values
 
-##**How to Run**
+## **How to Run**
 
 Open the notebook in Google Colab
 
